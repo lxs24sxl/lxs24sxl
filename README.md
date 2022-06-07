@@ -1,4 +1,5 @@
-### Hi there 👋
+## Github 统计
+![](https://github-readme-stats.vercel.app/api?username=hooray&count_private=true&show_icons=true&theme=onedark)
 
 <!--
 **lxs24sxl/lxs24sxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
